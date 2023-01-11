@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/default.uss?fileID=7433441132597879392&amp;guid=a04e8230c67664b41aa7f10517baefce&amp;type=3#default" />
+    <ui:VisualElement name="Screen" style="width: 100%; height: 100%; justify-content: center; align-items: center;">
+        <ui:Label text="THE END." display-tooltip-when-elided="true" name="Label" style="font-size: 45%; color: rgb(255, 32, 32); text-shadow: 2px 1px 0 rgb(0, 0, 0);" />
+        <ui:Button text="Restart" display-tooltip-when-elided="true" name="RestartButton" enable-rich-text="false" class="button" style="font-size: 22%;" />
+        <ui:Button text="Exit" display-tooltip-when-elided="true" name="ExitButton" class="button" style="font-size: 22%;" />
+    </ui:VisualElement>
+</ui:UXML>

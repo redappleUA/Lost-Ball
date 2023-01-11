@@ -1,0 +1,15 @@
+.button {
+    width: 44%;
+    height: 8%;
+    border-left-color: rgb(255, 0, 0);
+    border-right-color: rgb(255, 0, 0);
+    border-top-color: rgb(255, 0, 0);
+    border-bottom-color: rgb(255, 0, 0);
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    border-bottom-width: 7px;
+    -unity-text-align: middle-center;
+    font-size: 22%;
+}
